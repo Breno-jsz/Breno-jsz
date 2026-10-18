@@ -59,11 +59,10 @@ Olá! 👋 Sou estudante de Técnico em Desenvolvimento de Sistemas integrado ao
 
 <br/><br/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-0A1128?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6)
-![Postman](https://img.shields.io/badge/Postman-0A1128?style=for-the-badge&logo=postman&logoColor=2563EB)
-![Figma](https://img.shields.io/badge/Figma-0A1128?style=for-the-badge&logo=figma&logoColor=1D4ED8)
-![Claude](https://img.shields.io/badge/Claude_AI-0A1128?style=for-the-badge&logo=anthropic&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/Git-0A1128?style=for-the-badge&logo=git&logoColor=2563EB)
+![VS Code](https://img.shields.io/badge/VS_Code-0A1128?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6&color=0A1128)
+![NetBeans](https://img.shields.io/badge/NetBeans-0A1128?style=for-the-badge&logo=apachenetbeanside&logoColor=2563EB&color=0A1128)
+![SQL](https://img.shields.io/badge/SQL-0A1128?style=for-the-badge&logo=mysql&logoColor=1D4ED8&color=0A1128)
+![Figma](https://img.shields.io/badge/Figma-0A1128?style=for-the-badge&logo=figma&logoColor=3B82F6&color=0A1128)
 
 </div>
 
