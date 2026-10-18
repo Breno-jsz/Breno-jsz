@@ -136,9 +136,6 @@ breno@neural-core:~$ _
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&background=0A1128&border=3B82F6&ring=2563EB&fire=2563EB&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=false" alt="GitHub Streak"/>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Breno-jsz&bg_color=0A1128&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Activity%20Graph" width="100%" alt="Activity Graph"/>
-
 </div>
 
 ---
