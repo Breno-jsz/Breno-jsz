@@ -137,7 +137,7 @@ breno@neural-core:~$ _
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0A1128&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Activity%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Breno-jsz&bg_color=0A1128&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Activity%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
